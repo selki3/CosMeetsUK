@@ -1,0 +1,16 @@
+*
+
+!/*
+
+# let client manage its own .gitignore
+!/client/**
+
+# git configuration
+!.gitattributes
+!.gitignore
+
+# tools
+!mise.toml
+
+# documentation
+!README.md
